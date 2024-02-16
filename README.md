@@ -1,4 +1,4 @@
-# Chess GameV2
+# ChessV2
 
 Coded by Leon Gruber (9zehn) using Python and PyGame.
 
