@@ -9,4 +9,5 @@ A chess game a day keeps depression away...
 
 ## Demo
 
-<video src='https://youtu.be/FIeVmgl9IAA' width=600/>
+https://github.com/9zehn/ChessV2/assets/123667404/5eb19dc8-6f0a-46b8-90fc-08828b46edf5
+
