@@ -8,4 +8,5 @@ A chess game a day keeps depression away...
 
 
 ## Demo
-<video src='https://youtu.be/FIeVmgl9IAA' width=180/>
+
+<video src='https://youtu.be/FIeVmgl9IAA' width=600/>
