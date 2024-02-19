@@ -8,5 +8,4 @@ A chess game a day keeps depression away...
 
 
 ## Demo
-
-[![Demo CountPages alpha](https://youtu.be/FIeVmgl9IAA)]
+<video src='https://youtu.be/FIeVmgl9IAA' width=180/>
